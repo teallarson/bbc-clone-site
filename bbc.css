@@ -1,0 +1,231 @@
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+	
+		<style type="text/css">
+	
+		
+	
+		#topbar{
+			height:40px;
+			width:1275px;
+			margin:0 auto;		
+			border-bottom:1px #E4E4E4 solid;
+			
+		
+		}
+		
+		body{
+			margin:0;
+			padding:0;
+			font-family:Helvetica, Arial, Sans-Serif;
+			color:#3f3f3f;
+
+		}
+		
+		#logo{
+			margin-top:4px;
+			margin-left:15px;
+			width:90px;
+			float:left;
+			margin-right:16px;
+			height:80%;
+			
+		}
+		
+		.topbar-section{
+			float:left;
+			border-left:1px #E4E4E4 solid;
+			height:100%;
+			padding-left:10px;
+			font-weight:bold;
+			font-size:80%;
+			
+
+		}
+		
+		.topbar-menu{
+			float:left;
+			border-left:1px #E4E4E4 solid;
+			height:100%;
+			padding-left:5px;
+			font-weight:bold;
+			font-size:80%;
+			padding:13px 20px 0px 19px;
+			height:27px;
+			letter-spacing:0.25px;
+		}
+		
+		
+		
+		#signin-img{
+		
+			width:25px;
+			height:20px;
+			margin:10px 10px;
+			float:left;
+		}
+		
+		#signin-text{
+			position:relative;
+			top:14px;
+			margin-right:20px;
+			
+			
+		}
+		
+		#newslinks-div{
+			
+			top:14px;
+			margin-right:16px;
+			margin-left:16px;
+			letter-spacing:0.1em;
+			
+		
+		}
+		
+		a{
+			text-decoration:none;
+			color:black;
+		
+		
+		}
+		
+		
+		a:visited{
+			color:black;
+		
+		
+		}
+		
+		a:active{
+			color:black;
+			text-style:bold;
+		
+		}
+		
+		#searchbar{
+			float:left;
+			position:relative;
+			top:-6px;
+			background-color:#E4E4E4;
+			border:none;
+			font-family:Helvetica, Arial, Sans-Serif;
+			font-weight:bold;
+			font-color:#000000;
+			height:24px;
+			padding:6px;
+		
+		}
+		
+		#searchbutton{
+			position:relative;
+			float:left;
+			top:-6px;
+			padding-left:0px;
+			width:24px;
+			background-img:searchimg.svg;
+			height:24px;
+			border:none;
+			margin-left:0px;
+			background-color:#E4E4E4;
+		}
+		
+		.navbar{
+		
+			height:60px;
+			width:1275px;
+			margin:0 auto;
+			font-family:Helvetica, Arial, Sans-Serif;
+			color:#3f3f3f;
+			
+		
+		}
+		
+		#futurelogo{
+			margin-left:17px;
+			position:relative;
+			top:1px;
+		
+		
+		
+		}
+		
+		.navlinks{
+			float:right;
+			margin:20px 14px;
+			font-family:Helvetica, Arial, Sans-serif;
+			color:#3f3f3f;
+			font-size:95%;
+			letter-spacing:0.5px;
+		}
+		
+		#navbarmoreimg{
+			position:relative;
+			top:-10px;			
+			height:40px;
+			float:right;
+			margin-left:8px;
+		
+		}
+		
+		#editorspicks{
+		
+			height:60px;
+			width:1200px;
+			margin:20px;
+			font-family:Times New Roman, Serif;
+			text-align:center;
+			font-size:90%;
+			letter-spacing:1.5px;
+			color:black;
+			
+		
+		}
+		
+		.articleflow{
+			margin-left:60px;
+			float:left;
+		}
+		
+		
+		#docpic{
+			width:600px;
+		}
+		
+		.headlineflow{
+			width:200px;
+			height:230px;
+			float:left;
+			position:relative;
+			left:-40px;
+			top:40px;
+			background-color:white;
+			padding-left:42px;
+			padding-top:24px;
+			letter-spacing:2px;
+		}
+		
+		.subtitle{
+			font-size:150%;
+			color:#3f3f3f
+			letter-spacing:1px;
+		
+		}
+		
+		H6{
+			font-family:Times New Roman, Serif;
+			font-style:italic;
+			font-size:75%
+			
+		}
+		
+		.vl {
+			border-left: 1px solid #e4e4e4;
+			height: 750px;
+			width:300px;
+			float:right;
+			position:relative;
+}
+		
+		</style>
